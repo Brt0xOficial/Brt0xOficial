@@ -39,7 +39,7 @@ Essas vivências me proporcionaram uma visão ampla de negócios e aprimoraram m
 
 ### 📧 Contato
 
-Estou entusiasmado com novas oportunidades e busco ativamente uma posição de **home office**. Sou um profissional com **rápido aprendizado e grande proatividade**, pronto para aplicar minhas habilidades e contribuir com dedicação em um novo desafio.
+Estou entusiasmado com novas oportunidades e busco ativamente uma posição de **home office**. Sou um profissional com **rápido aprendizado e grande proatividade**, pronto para contribuir com dedicação em um novo desafio.
 
 [![Email](https://img.shields.io/badge/Email-brt.prodg%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:brt.prodg@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+55%2021%2098064--9505-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521980649505)
