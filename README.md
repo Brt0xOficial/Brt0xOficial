@@ -1,16 +1,45 @@
-## Hi there 👋
+# Olá, sou Brt0xOficial! 👋
 
-<!--
-**Brt0xOficial/Brt0xOficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma pessoa determinada e dedicada, que sempre lutou pelos próprios objetivos. Venho de uma família simples e, por isso, aprendi desde cedo o valor do esforço e da persistência. Acredito que, diante de poucas oportunidades, o comprometimento e a garra são essenciais para alcançar resultados significativos.
 
-Here are some ideas to get you started:
+Atualmente, estou me aprofundando intensamente na área de programação, com foco em **Python** e **Inteligência Artificial**. Tenho dedicado tempo e esforço para dominar novas ferramentas e criar soluções inovadoras. Minha busca por conhecimento é constante, e estou sempre empenhado em aplicar o que aprendo para construir projetos de qualidade e agregar valor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Habilidades Técnicas
+
+Minhas principais habilidades e áreas de foco atuais incluem:
+
+-   **Linguagens**: Python (com foco em desenvolvimento e aplicações de Inteligência Artificial)
+
+Estou em constante aprendizado e explorando ativamente bibliotecas e frameworks relacionados a IA para expandir meu conhecimento e capacidade de construir soluções inovadoras.
+
+---
+
+### 🎓 Formação Acadêmica
+
+- Ensino Superior Completo
+- Certificado em Linguagem de Programação Python Básico (Fundação Bradesco)
+- Curso de Gestão Financeira e Administração de Empresas (Escola do Sebrae)
+
+---
+
+### 💼 Experiências Profissionais
+
+Minhas experiências anteriores me ajudaram a desenvolver uma base sólida de habilidades transferíveis que são cruciais em qualquer ambiente de trabalho dinâmico e na área de tecnologia:
+
+-   **Logística**: Otimização de processos, planejamento estratégico e gestão eficiente de recursos.
+-   **Marketing**: Desenvolvimento de estratégias criativas, análise de mercado e comunicação eficaz.
+-   **Photoshop e Design**: Habilidade em criação visual, edição de imagens e aplicação de princípios de design para soluções estéticas e funcionais.
+-   **Produção Executiva**: Coordenação e organização de projetos complexos, garantindo a execução eficiente e pontual, com foco em resultados.
+
+Essas experiências me proporcionaram uma visão ampla de negócios e aprimoraram minhas capacidades de organização, criatividade, pensamento estratégico e trabalho em equipe, competências que aplico com garra e dedicação no meu processo de aprendizado em programação e na construção de soluções com código.
+
+---
+
+### 📧 Contato
+
+Estou entusiasmado com novas oportunidades e busco ativamente uma posição de **home office**. Sou um profissional com **rápido aprendizado e grande proatividade**, pronto para contribuir com dedicação em um novo desafio.
+
+-   **E-mail**: brt.prodg@gmail.com
+-   **Telefone/WhatsApp**: +55 21 98064-9505
